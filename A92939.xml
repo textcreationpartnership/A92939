@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Serious sober state-considerations, relating to the government of England and the garrison of Dunkirk in Flanders. By Theophilus Verax a Dunkirker.</title>
+            <author>Verax, Theophilus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92939</idno>
+            <idno type="STC">Wing S2618</idno>
+            <idno type="STC">Thomason E1021_7</idno>
+            <idno type="STC">ESTC R203909</idno>
+            <idno type="EEBO-CITATION">99863690</idno>
+            <idno type="PROQUEST">99863690</idno>
+            <idno type="VID">115901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115901)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1021[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Serious sober state-considerations, relating to the government of England and the garrison of Dunkirk in Flanders. By Theophilus Verax a Dunkirker.</title>
+                  <author>Verax, Theophilus.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by W.G. over against the Anchor in Little-Brittain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Theophilus Verax is a pseudonym.</note>
+                  <note>Annotation on Thomason copy: "April. 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115901:1" rendition="simple:additions"/>
+            <p>SERIOUS SOBER STATE-Conſiderations, RELATING To the GOVERNMENT OF ENGLAND AND The Garriſon of <hi>D<g ref="char:V">Ʋ</g>NKIRK</hi> IN FLANDERS.</p>
+            <p>BY <hi>Theophilus Verax</hi> a <hi>Dunkirker.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. G.</hi> over againſt the <hi>Anchor</hi> in <hi>Little-Brittain,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115901:2"/>
+            <pb n="3" facs="tcp:115901:2"/>
+            <head>
+               <hi>Serious Sober State-Conſiderations,</hi> Relating to the Government of <hi>England,</hi> And the Garriſon of <hi>Dunkirk</hi> in <hi>Flanders.</hi>
+            </head>
+            <p n="1">1. WHether, a Peace with <hi>Spain,</hi> be not deſire<g ref="char:EOLhyphen"/>able both by the <hi>Engliſh</hi> and <hi>Spaniſh Sub<g ref="char:EOLhyphen"/>jects?</hi> And whether an honorable clo<g ref="char:EOLhyphen"/>ſure with the King, be not the moſt probable means to produce a good accommodation betwixt both <hi>Crowns?</hi>
+            </p>
+            <p n="2">2. Whether the compoſed Monarchical Go<g ref="char:EOLhyphen"/>vernment of <hi>England,</hi> is not the beſt that ever was invented? And whether our late Diſtractions proceeded from the effects thereof, or from the National ſins; and becauſe the Treble of it hath of late years, been tuned too high for the Baſs? And whether the only way, to procure the ſweet Harmony of peace, is not to keep the Inſtrument of the <hi>Common-wealth</hi> in Tune, allowing to the <hi>Mo<g ref="char:EOLhyphen"/>narchy, Ariſtocracy,</hi> and <hi>Democracy,</hi> of which it's compounded, their due Rights and Preroga<g ref="char:EOLhyphen"/>tives?</p>
+            <p n="3">3. Whether ſince hard and diſhonourable condi<g ref="char:EOLhyphen"/>tions
+<pb n="4" facs="tcp:115901:3"/>of peace are ſeldome long lived,<note place="margin">See <hi>H.</hi> 3. and <hi>Montford</hi> E. of <hi>Leiceſter.</hi>
+               </note> it be not dangerous to impoſe too high Termes upon the King upon his Ad<g ref="char:EOLhyphen"/>miſſion?</p>
+            <p n="4">4. Whether the rigid <hi>Epiſcopalians</hi> are not (next the <hi>Phanatique</hi>) the greateſt Obſtructers of the King and Nations ſettlement; in their ſcribling and preaching againſt all forms of Government but their own?</p>
+            <p n="5">5. Whether the Jeſuits, and the Sectaries (their Brats) are not now labouring, as for their lives, to widen the differences between Presbytery and E<g ref="char:EOLhyphen"/>piſcopacy, thereby to obſtruct any good Settle<g ref="char:EOLhyphen"/>ment? And whether it concern not the preſent Governours to be extraordinary watchful of them?</p>
+            <p n="6">6. Whether a Brotherly Union betwixt theſe two parties, and a dutiful acquieſcing in the de<g ref="char:EOLhyphen"/>termination of the enſuing Parliament, will not (under God) be a great means to facilitate Settle<g ref="char:EOLhyphen"/>ment in Church and State? And whether both parties are not in conſcience and duty towards their Prince and Country bound thereto, ſince there is no difference betwixt them, in any fun<g ref="char:EOLhyphen"/>damental of <hi>Religion,</hi> but only in Diſcipline and Form; which imports little to Salvation, onely upholds a Decency?</p>
+            <p n="7">
+               <pb n="5" facs="tcp:115901:3"/> 7. Whether the words of Deſparadoes, and Chymney-corner health drinking friends of the laſt and preſent King, were not more Enemies to both, than the Swords of their adverſaries; and did not theſe by their threats and ſharing eſtates before they had them, drive many by force to fight againſt the King, that never intended any thing but quietneſſe; and will not the like actings now produce the ſame effects?</p>
+            <p n="8">8. Whether Plurality of Factions are not dan<g ref="char:EOLhyphen"/>gerous, many times the overthrow of a State or Kingdome, as that of <hi>York</hi> and <hi>Lancaſter</hi> to <hi>En<g ref="char:EOLhyphen"/>gland,</hi> the miſeries of <hi>France</hi> by the <hi>Royal, Po<g ref="char:EOLhyphen"/>litick,</hi> and <hi>Catholick</hi> League, the deſtruction of <hi>Romes</hi> Common-wealth by the Factions of <hi>Pom<g ref="char:EOLhyphen"/>pey</hi> and <hi>Caeſar?</hi>
+            </p>
+            <p n="9">9. Whether it be not dangerous for a Prince or Governour, to become head of any Faction in his own Government?</p>
+            <p n="10">10. Whether the <hi>Rump</hi> proceeded not accor<g ref="char:EOLhyphen"/>ding to <hi>Achitophel</hi>'s and <hi>Machevil</hi>'s rule, in ex<g ref="char:EOLhyphen"/>poſing the Kings and others lands to ſale, force<g ref="char:EOLhyphen"/>ing the Soldiers to take parts for Arrears, thereby endevouring a perpetual and irreconcilable divi<g ref="char:EOLhyphen"/>ſions in the Nations?</p>
+            <p n="11">11. Whether it be not the ſafeſt and beſt way
+<pb n="6" facs="tcp:115901:4"/>for Princes and Governours, to admit perſons to places of honour and truſt annually? And whe<g ref="char:EOLhyphen"/>ther hereby men of <hi>wiſdome, valour,</hi> and <hi>learning,</hi> by degrees, may not attain to dignity? and will not this make them ſtrain to out-go each other in vertue, ſince the dore of preferment will be there<g ref="char:EOLhyphen"/>by open to all indifferently, as they excel in goodneſſe; will not hereby ſeveral dangers be avoyded, as Perpetuation, Lawleſneſſe, and all fear of bringing thoſe to ſubjection that raiſed them, taken away?</p>
+            <p n="12">12. Whether the Purchaſer of <hi>Lambeth-Houſe</hi> be fit to keep the Records of the peace at <hi>Weſt<g ref="char:EOLhyphen"/>minſter?</hi>
+            </p>
+            <p n="13">13. Whether the Lord <hi>Lockhart</hi> Governour of <hi>Dunkirk,</hi> be indeed a <hi>Scot,</hi> ſince he ſo much tranſ<g ref="char:EOLhyphen"/>cends the nature of thoſe he calls Countrymen?</p>
+            <p n="14">14. VVhether in former times the <hi>Engliſh</hi> have not loſt their Towns and Provinces abroad, by their Factions and diviſions at home? And whether now the ſame cauſe may not hazzard the loſs of <hi>Dunkirk.?</hi>
+            </p>
+            <p n="15">15. VVhether old Capt. <hi>Chapman,</hi> muſt not in Juſtice be reſtored to his command, being outed by the prejudice of a parcel of Traytors, Commiſ<g ref="char:EOLhyphen"/>ſioners from the <hi>Rump,</hi> without true ground, upon
+<pb n="7" facs="tcp:115901:4"/>the Oath of <hi>Bromfield</hi> the Informer, that was whipt under the Gallowes, loſt his Ear, and baniſht the Garriſon, within a ſmall time after he had ſworn againſt <hi>Chapman</hi> in <hi>Dunkirk?</hi>
+            </p>
+            <p n="16">16. Whether the other five Members, Captains of the Army in <hi>Flanders, Devoe, Gargrave, Pox<g ref="char:EOLhyphen"/>ton, Fitz-williams</hi> and <hi>Muſe,</hi> ought in Juſtice to loſe their Commands unheard, and their places ſupplyed for the moſt part with <hi>Phanatiques,</hi> by the Suggeſtions of <hi>Aſhfield, Peirſon,</hi> and <hi>Packer,</hi> who have been ſince outed themſelves, for endevou<g ref="char:EOLhyphen"/>ring to betray the Liberties of their native Country?</p>
+            <p n="17">17. Whether <hi>Fort Manning</hi> or <hi>Fort Loggerhead</hi> be the proper name?</p>
+            <p n="18">18. VVhether the Non-payment of the civil Officers their dues, be not the ready way to cauſe them to ſtudy Knavery, if they never knew any before?</p>
+            <p n="19">19. VVhether it be not juſt that all the reſt of the <hi>Phanatique</hi> Informers ſhould follow after Lieutenant <hi>Copeland?</hi>
+            </p>
+            <p n="20">20. VVhether he be fit to be an Ammunition Commiſſary, that ſaid it would never be well with <hi>England</hi> until <hi>London</hi> were burnt to aſhes, for ſtanding for their liberties, is glad at the out-ing
+<pb n="8" facs="tcp:115901:5"/>of all Governments, and if the <hi>Turk</hi> ſhould rule, would be his Commiſſary, rather then be out of imployment?</p>
+            <p n="21">21. VVhether the Collonels or the Maſter Gunner, have the more Authority, ſince the Gunner can commit ſuch as the Collonels diſ<g ref="char:EOLhyphen"/>charge for the ſame offence?</p>
+            <p n="22">22. VVhat ſo much <hi>Spaniſh</hi> cloath would be worth as would reach between <hi>Bromfield</hi>'s the <hi>Dunkirk</hi> Informers two ears?</p>
+            <p n="23">23. VVhether thoſe that ſet <hi>Bromfield</hi> on work, to article and inform, being as bad as <hi>Bromfield</hi> himſelf, may not in due time follow his ſteps?</p>
+            <p n="24">24. VVhether it be likely the woman at the <hi>Welcome</hi> to <hi>Dunkirk,</hi> will ever leave her pimping cheating over-reckoning, ſell by juſt meaſures and turn honeſt, ſhe having ſo long been uſed to ſuch trade?</p>
+            <p n="25">25. VVhether it be not a ſhame to the Prote<g ref="char:EOLhyphen"/>ſtant Religion, that the <hi>Engliſh</hi> in <hi>Dunkirk</hi> muſt be forced to ſend their Children to the Papiſts to baptize, or keep them unchriſtned, as above 30. are at this time in that Garriſon? And whether an able Orthodox Miniſtery there is not more requi<g ref="char:EOLhyphen"/>ſite then in any part of the three Nations?</p>
+            <p n="26">26. VVhen theſe matters will be amended.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
